@@ -1,0 +1,9 @@
+var a
+var result
+
+input a
+if a > 5
+   result = 1
+else
+   result = 0
+print result
