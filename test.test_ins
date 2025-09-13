@@ -1,0 +1,11 @@
+# the created file by compiler
+
+
+# var a -> R0
+# var result -> R1
+INPUT R0
+IF R0 > 5
+WRITE R1, 1
+ELSE
+WRITE R1, 0
+PRINT R1
